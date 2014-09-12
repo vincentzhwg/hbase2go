@@ -1,4 +1,4 @@
-package hbase2
+package hbase2go
 
 import (
 	"fmt"
